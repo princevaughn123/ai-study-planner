@@ -19,16 +19,16 @@ A Python-based study tracking app with a modern GUI, AI-powered subject suggesti
 ## 📸 Screenshots
 
 ### Main App
-![Main GUI](main_gui.png)
+![Main GUI](./main_gui.png)
 
 ### Calendar View
-![Calendar](calendar_view.png)
+![Calendar](./calendar_view.png)
 
 ### AI Suggestion
-![AI Suggestion](ai_popup.png)
+![AI Suggestion](./ai_popup.png)
 
 ### PDF Report
-![PDF Report](pdf_report.png)
+![PDF Report](./pdf_report.png)
 
 ---
 
