@@ -40,3 +40,47 @@ A Python-based study tracking app with a modern GUI, AI-powered subject suggesti
    ```bash
    git clone https://github.com/YOUR_USERNAME/ai-study-planner.git
    cd ai-study-planner
+
+2. Create and activate a virtual environment:
+bash
+Copy
+Edit
+python -m venv venv
+.\venv\Scripts\activate   # On Windows
+
+3. Install the required packages:
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+4. Launch the app:
+bash
+Copy
+Edit
+python gui.py
+
+📄 PDF Weekly Reports
+Click “📄 Generate Weekly Report” in the app to export a professional summary with:
+
+Total minutes studied
+
+Average productivity score
+
+Most studied subject
+
+AI-generated recommendation for next focus
+
+👤 Author
+Devaughn Henry
+16-year-old aspiring Computer engineer focused on Python, automation, and AI development.
+This project was built to strengthen my portfolio and demonstrate real-world coding skills.
+
+🔮 Future Additions
+Email/Discord study reminders
+
+Flashcard integration
+
+Streak tracker & motivational popups
+
+Daily AI-generated goals based on your trends
