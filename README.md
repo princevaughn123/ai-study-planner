@@ -26,8 +26,7 @@ A Python-based study tracking app with a modern GUI, AI-powered subject suggesti
 ### AI Suggestion
 ![AI Suggestion](ai_popup.png)
 
-### PDF Report
-![PDF Report](pdf_report.png)
+
 
 ---
 
