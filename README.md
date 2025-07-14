@@ -41,24 +41,26 @@ A Python-based study tracking app with a modern GUI, AI-powered subject suggesti
    git clone https://github.com/YOUR_USERNAME/ai-study-planner.git
    cd ai-study-planner
 
-2. Create and activate a virtual environment:
-bash
-Copy
-Edit
-python -m venv venv
-.\venv\Scripts\activate   # On Windows
+### 2. Create and activate a virtual environment
 
-3. Install the required packages:
-bash
-Copy
-Edit
+On Windows:
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+
+
+### 3. Install required packages
+
+Make sure your virtual environment is activated, then run:
+
+```bash
 pip install -r requirements.txt
 
-4. Launch the app:
-bash
-Copy
-Edit
+### 4. Run the app
+
+```bash
 python gui.py
+
 
 📄 PDF Weekly Reports
 Click “📄 Generate Weekly Report” in the app to export a professional summary with:
