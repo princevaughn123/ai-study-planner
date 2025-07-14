@@ -27,7 +27,8 @@ A Python-based study tracking app with a modern GUI, AI-powered subject suggesti
 ### AI Suggestion
 ![AI Suggestion](ai_popup.png)
 
-
+### PDF Report
+![PDF Report](pdf_report.png)
 
 ---
 
@@ -117,4 +118,3 @@ This project was built to strengthen my portfolio and demonstrate real-world cod
 * Streak tracker & motivational popups
 * Daily AI-generated goals based on your trends
 
-Daily AI-generated goals based on your trends
