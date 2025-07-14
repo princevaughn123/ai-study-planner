@@ -17,8 +17,17 @@ A Python-based study tracking app with a modern GUI, AI-powered subject suggesti
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your GUI, calendar, and report here)*  
-> You can use Windows Snipping Tool or `Print Screen`, save as `.png`, and upload on GitHub.
+### Main App
+![Main GUI](main_gui.png)
+
+### Calendar View
+![Calendar](calendar_view.png)
+
+### AI Suggestion
+![AI Suggestion](ai_popup.png)
+
+### PDF Report
+![PDF Report](pdf_report.png)
 
 ---
 
