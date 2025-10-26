@@ -1,5 +1,5 @@
 ````markdown
-# 🧠 AI Study Planner
+# 🧠 AI Study Planner ( AI ASSISTED PROJECT)
 
 A Python-based study tracking app with a modern GUI, AI-powered subject suggestions, a study calendar, and weekly PDF progress reports.
 
